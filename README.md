@@ -13,4 +13,4 @@ Galeria de imagens feita com jQuery.
 HTML, CSS e jQuery
 
 ## Como rodar
-Abra o `index.html` no navegador.
+Acesse a demo acima, ou baixe o projeto e abra o `index.html` no navegador.
